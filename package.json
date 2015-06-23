@@ -1,0 +1,31 @@
+{
+  "name": "coinage",
+  "version": "1.0.0",
+  "description": "AngularJS application to convert pennies into coins",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miguelcjalmeida/coinage"
+  },
+  "keywords": [
+    "angularjs",
+    "jasmine",
+    "coin",
+    "machine"
+  ],
+  "author": "Miguel Almeida <darkmagusbr@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelcjalmeida/coinage/issues"
+  },
+  "homepage": "https://github.com/miguelcjalmeida/coinage",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2",
+    "grunt-contrib-uglify": "^0.9.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
